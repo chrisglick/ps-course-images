@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.0.12",
+    "@pluralsight/videoservices-fs": "^1.0.5",
     "fluent-ffmpeg": "^2.1.2"
   },
   "devDependencies": {
